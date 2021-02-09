@@ -21,9 +21,9 @@ export const aboutData = {
   paragraphOne:
     'My name is Floroiu Cristiana-Elena and I’m an enthusiastic and detail-oriented Junior Front-End Developer seeking an entry-level position in a Company where I can use and improve my coding skills, and I can make a contribution to the team I will work with.',
   paragraphTwo:
-    'My passion for design and the fact that I pay attention to details further motivated me to take a Front-End programming course at Informal School of IT. During the course I have learnt more about web development world and about technologies like: HTML, CSS3, Layouting, JavaScript, ES6, DOM manipulation, Ajax and React. In the building phase of the course I was gradually able to create a react application from mockup to finished version and to implement some nice features in a way that can fulfill as much as possible the user needs.',
+    'My passion for web design and the fact that I pay attention to details further motivated me to take a Front-End programming course at Informal School of IT. During the course I have learnt more about web development world and about technologies such as: HTML, CSS3, Layouting, JavaScript, ES6, DOM manipulation, Ajax and React. In the building phase of the course I was gradually able to create a react application from mockup to finished version and to implement some nice features in a way that can fulfill the user needs as much as possible.',
   paragraphThree:
-    "I have a bachelor’s degree in Informatic Economics, and also a master's degree in Business Information Systems where I acquired IT skills and an analytical thinking . During the master I did an internship in Automation Testing at Endava. Being part of a corporate team with people with different background has provided me with an understanding and awareness of differences in individuals.",
+    "I have a bachelor’s degree in Informatic Economics, and also a master's degree in Business Information Systems where I acquired IT skills and an analytical way of thinking . During the master I did an internship in Automation Testing at Endava. Being part of a corporate team with people with different background has provided me with an understanding and awareness of differences in individuals.",
   resume: 'https://registry.jsonresume.org/elenacfloroiu', // if no resume, the button will not show up
 };
 
@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'movielist.jpg',
     title: 'Movie List',
     info:
-      'Movie List is a react web application that uses TMDB API to display movies data. The user can search for any movie and can view details about it. The details are displayed in a dialog with information such as release date, overview, rating and also a button “Mark as favorite” from where the movie can be saved to a persistent favorite list. ',
+      '"Movie List" is a react web application that uses TMDB API to display movies data. The user can search for any movie and can view details about it. The details are displayed in a dialog with information such as release date, overview, rating and also a button “Mark as favorite” from where the movie can be saved to a persistent favorite list. ',
     info2:
       'The application is also mobile-responsive, feature made by using Media Query hook from Material UI. From favorite list, the user can remove the movie and also can give a personal rating.',
     url: 'https://elenacfloroiu.github.io/react-app-movie-list/',
@@ -45,7 +45,7 @@ export const projectsData = [
     img: 'smart-brain.jpg',
     title: 'Smart Brain',
     info:
-      'Smart Brain is a web app that uses the Clarifai API to locate all the faces in a picture uploaded (by entering a direct image link into the input) by the user. After submitting, the app will display rectangles around all detected faces. Technologies used: React.js, Tachyons, CSS3, HTML5, Particles.js.',
+      '"Smart Brain" is a web app that uses the Clarifai API to locate all the faces in a picture uploaded (by entering a direct image link into the input) by the user. After submitting, the app will display rectangles around all detected faces. Technologies used: React.js, Tachyons, CSS3, HTML5, Particles.js.',
     info2: '',
     url: 'https://elenacfloroiu.github.io/smart-brain/',
     repo: 'https://github.com/elenacfloroiu/smart-brain/tree/master', // if no repo, the button will not show up
@@ -55,10 +55,20 @@ export const projectsData = [
     img: 'r-p-s.jpg',
     title: 'Rock Paper Scissors Game',
     info:
-      ' Rock Paper Scissors app is a classic game built with CSS3, HTML5 and JavaScript. The user can play against the computer by picking his option, the result being displayed on a scoreboard. The computer’s choice is generated using the Math.random() function.',
+      ' "Rock Paper Scissors" app is a classic game built with CSS3, HTML5 and JavaScript. The user can play against the computer by picking his option, the result being displayed on a scoreboard. The computer’s choice is generated using the Math.random() function.',
     info2: '',
     url: 'https://rockpaperscossors.netlify.app/',
     repo: 'https://github.com/elenacfloroiu/r-p-s', // if no repo, the button will not show up
+  },
+
+  {
+    id: nanoid(),
+    img: 'adopt-template.jpg',
+    title: 'Adopt a friend',
+    info:
+      ' "Adopt a friend" is an example of template for a possible animal shelter. The site is structured in 4 mobile responsive sections/pages (Home, Adopt, Love Stories, Contact Us). Technologies used: CSS3, HTML5, CSS grid, CSS FlexBox and MediaQuery',
+    url: 'https://adopt-a-friend.netlify.app/',
+    repo: 'https://github.com/elenacfloroiu/adopt-pet-template', // if no repo, the button will not show up
   },
 ];
 
