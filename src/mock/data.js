@@ -19,10 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'my-profil.jpg',
   paragraphOne:
-    'My name is Floroiu Cristiana-Elena, I am an optimistic person, eager to accumulate new knowledge, open to new challenges, and able to integrate quickly into a new collective. In the near future I want to continue in the IT field, investing in my personal development and, implicitly, in the company I will work in.',
+    'My name is Floroiu Cristiana-Elena, I am an optimistic person, open to new challenges, and able to integrate quickly into a new collective. Currently, I am a Jr. Developer at ChannelSight company, soaking up as much knowledge and practice as I can in an attempt to improve my IT skills. My main responsibilities are developing robots using technologies such: JavaScript, Apify tool, HTTP requests, HTML, CSS, and SQL in order to extract product information from different retailer websites.',
   paragraphTwo:
-    'Currently, I am a Jr. Developer at ChannelSight company, soaking up as much knowledge and practice as I can in an attempt to improve my IT skills. My main responsibilities are developing robots using technologies such: JavaScript, Apify tool, HTTP requests, HTML, CSS, and SQL in order to extract product information from different retailer websites.',
-  paragraphThree:
     "My relevant qualifications are a bachelor’s degree in Informatic Economics, and also a master's degree in Business Information Systems where I acquired IT skills and an analytical way of thinking. I also did a Front-End programming course at Informal School of IT because of my passion for web design and the fact that I pay attention to details. During the course, I have learnt more about the web development world. In the building phase of the course, I was gradually able to create a react application from mockup to finished version and to implement some nice features.",
 };
 
