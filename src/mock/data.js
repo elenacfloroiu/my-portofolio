@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Elena',
-  subtitle: "I'm a Junior Front-End Developer",
+  subtitle: "I'm a Junior Developer",
   cta: '',
 };
 
@@ -19,12 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'my-profil.jpg',
   paragraphOne:
-    'My name is Floroiu Cristiana-Elena and I’m an enthusiastic and detail-oriented Junior Front-End Developer seeking an entry-level position in a Company where I can use and improve my coding skills, and I can make a contribution to the team I will work with.',
-  paragraphTwo:
-    'My passion for web design and the fact that I pay attention to details further motivated me to take a Front-End programming course at Informal School of IT. During the course I have learnt more about web development world and about technologies such as: HTML, CSS3, Layouting, JavaScript, ES6, DOM manipulation, Ajax and React. In the building phase of the course I was gradually able to create a react application from mockup to finished version and to implement some nice features in a way that can fulfill the user needs as much as possible.',
-  paragraphThree:
-    "I have a bachelor’s degree in Informatic Economics, and also a master's degree in Business Information Systems where I acquired IT skills and an analytical way of thinking . During the master I did an internship in Automation Testing at Endava. Being part of a corporate team with people with different background has provided me with an understanding and awareness of differences in individuals.",
-  resume: 'https://registry.jsonresume.org/elenacfloroiu', // if no resume, the button will not show up
+    'My name is Floroiu Cristiana-Elena and I’m I am an optimistic person, eager to accumulate new knowledge, open to new challenges and able to integrate quickly into a new collective. In the near future I want to continue in the IT field, investing in my personal development and, implicitly, in the company I will work in.',
 };
 
 // PROJECTS DATA
